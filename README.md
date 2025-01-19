@@ -12,7 +12,7 @@ such as **conference, title, abstract**，which can be written in the form of [m
 
 <div id="ai-sec">
 
-||Date|Speaker|Title|Sharer|
+||Date|Speaker|Title|Publication|
 |---|:---:|:---:|:---:|:---:| 
 |1|2025.01.03|曾睿|||
 |2|2025.01.10|赵芷茗|||
@@ -36,11 +36,11 @@ such as **conference, title, abstract**，which can be written in the form of [m
 
 <div id="system-sec">
 
-||Date|Speaker|Title|Sharer|
+||Date|Speaker|Title|Publication|
 |---|:---:|:---:|:---:|:---:|
-|1|2025.01.05|李秉政|||
-|2|2024.01.12|黄钢|||
-|3|2024.01.19|刘昕鹏|||
+|1|2025.01.05|李秉政|SymBisect: Accurate Bisection for Fuzzer-Exposed Vulnerabilities|Usenix Security 2024|
+|2|2024.01.12|黄钢|Can LLMs Obfuscate Code? A Systematic Analysis of Large Language Models into Assembly Code Obfuscation|AAAI 2025|
+|3|2024.01.19|刘昕鹏|Unveiling IoT Security in Reality: A Firmware-Centric Journey|Usenix Security 2024|
 |4|2024.01.26||||
 |5|2024.02.02||||
 |6|2024.02.09|江世昊|||

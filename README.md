@@ -19,15 +19,16 @@ such as **conference, title, abstract**，which can be written in the form of [m
 |3|2025.01.17||||
 |4|2025.01.24||||
 |5|2025.01.31||||
-|6|2025.02.07|冯周|||
-|7|2025.02.14|甘雨由|||
-|8|2025.02.21|王异鸣|||
-|9|2025.02.28|李欣迪|||
-|10|2025.03.07|李俊豪|||
-|11|2025.03.14|贺兴|||
-|12|2025.03.21|陈曦|||
-|13|2025.03.28|陈佳豪|||
-
+|6|2025.02.07||||
+|7|2025.02.14||||
+|8|2025.02.21|冯周|||
+|9|2025.02.28|甘雨由|||
+|10|2025.03.07|王异鸣|||
+|11|2025.03.14|李欣迪|||
+|12|2025.03.21|李俊豪|||
+|13|2025.03.28|贺兴|||
+|14|2024.04.04|陈曦|||
+|15|2025.04.11|陈佳豪|||
 
 ## System Security Group Meeting
 **Location**：Cao Guangbiao High-tech Building 201
@@ -39,13 +40,15 @@ such as **conference, title, abstract**，which can be written in the form of [m
 ||Date|Speaker|Title|Publication|
 |---|:---:|:---:|:---:|:---:|
 |1|2025.01.05|李秉政|SymBisect: Accurate Bisection for Fuzzer-Exposed Vulnerabilities|Usenix Security 2024|
-|2|2024.01.12|黄钢|Can LLMs Obfuscate Code? A Systematic Analysis of Large Language Models into Assembly Code Obfuscation|AAAI 2025|
-|3|2024.01.19|刘昕鹏|Unveiling IoT Security in Reality: A Firmware-Centric Journey|Usenix Security 2024|
-|4|2024.01.26||||
-|5|2024.02.02||||
-|6|2024.02.09|江世昊|||
-|7|2024.02.16|张凌铭|||
-|8|2024.02.23|祝遥|||
-|9|2024.03.02|杨禹|||
-|10|2024.03.09|常博宇|||
-|11|2024.03.16|林型双|||
+|2|2025.01.12|黄钢|Can LLMs Obfuscate Code? A Systematic Analysis of Large Language Models into Assembly Code Obfuscation|AAAI 2025|
+|3|2025.01.19|刘昕鹏|Unveiling IoT Security in Reality: A Firmware-Centric Journey|Usenix Security 2024|
+|4|2025.01.26||||
+|5|2025.02.02||||
+|6|2025.02.09||||
+|7|2025.02.16||||
+|8|2025.02.23|江世昊|||
+|9|2025.03.02|张凌铭|||
+|10|2025.03.09|祝遥|||
+|11|2025.03.16|杨禹|||
+|12|2025.03.23|常博宇|||
+|13|2025.03.30|林型双|||

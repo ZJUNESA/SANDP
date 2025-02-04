@@ -14,8 +14,8 @@ such as **conference, title, abstract**，which can be written in the form of [m
 
 ||Date|Speaker|Title|Publication|
 |---|:---:|:---:|:---:|:---:| 
-|1|2025.01.03|曾睿|||
-|2|2025.01.10|赵芷茗|||
+|1|2025.01.03|曾睿|BAIT: Large Language Model Backdoor Scanning by Inverting Attack Target|IEEE S&P 2025|
+|2|2025.01.10|赵芷茗|Emulated Disalignment: Safety Alignment for Large Language Models May Backfire!|ACL 2024|
 |3|2025.01.17||||
 |4|2025.01.24||||
 |5|2025.01.31||||

@@ -21,8 +21,8 @@ such as **conference, title, abstract**，which can be written in the form of [m
 |5|2025.01.31||||
 |6|2025.02.07||||
 |7|2025.02.14||||
-|8|2025.02.21|冯周|||
-|9|2025.02.28|甘雨由|||
+|8|2025.02.21|冯周|Towards Backdoor Stealthiness in Model Parameter Space|Preprint 2025|
+|9|2025.02.28|甘雨由|Systematic review of the development of open-source multimodal large language models|-|
 |10|2025.03.07|王异鸣|||
 |11|2025.03.14|李欣迪|||
 |12|2025.03.21|李俊豪|||
@@ -46,8 +46,8 @@ such as **conference, title, abstract**，which can be written in the form of [m
 |5|2025.02.02||||
 |6|2025.02.09||||
 |7|2025.02.16||||
-|8|2025.02.23|江世昊|||
-|9|2025.03.02|张凌铭|||
+|8|2025.02.23|江世昊|GhostType: The Limits of Using Contactless Electromagnetic Interference to Inject Phantom Keys into Analog Circuits of Keyboards|NDSS 2024|
+|9|2025.03.02|张凌铭|CarpetFuzz: Automatic Program Option Constraint Extraction from Documentation for Fuzzing|Usenix Security 2023|
 |10|2025.03.09|祝遥|||
 |11|2025.03.16|杨禹|||
 |12|2025.03.23|常博宇|||

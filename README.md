@@ -78,8 +78,8 @@ such as **conference, title, abstract**，which can be written in the form of [m
 |8|2025.02.23|江世昊|GhostType: The Limits of Using Contactless Electromagnetic Interference to Inject Phantom Keys into Analog Circuits of Keyboards|NDSS 2024|
 |9|2025.03.02|张凌铭|CarpetFuzz: Automatic Program Option Constraint Extraction from Documentation for Fuzzing|Usenix Security 2023|
 |10|2025.03.09|祝遥|||
-|11|2025.03.16|杨禹|||
-|12|2025.03.23|常博宇|||
+|11|2025.03.16|常博宇|SpecRover: Code Intent Extraction via LLMs|ICSE 2025|
+|12|2025.03.23|杨禹|||
 |13|2025.03.30|林型双|||
 |14|2025.04.06|武旗龙|||
 |15|2025.04.13|李秉政|||

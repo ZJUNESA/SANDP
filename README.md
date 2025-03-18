@@ -1,5 +1,3 @@
-![image](https://github.com/user-attachments/assets/54b82c5b-e4bb-47ce-aa28-06d2acacd087)![image](https://github.com/user-attachments/assets/ac4cb676-231c-42bb-9bbc-7834c626baf3)
-
 # Agenda 2025
 Please upload your **slides** or a **introduction (Chinese or English)** of your presentation **in advance**,
 such as **conference, title, abstract**，which can be written in the form of [markdown](http://sspai.com/25137). Please add your title in the agenda.

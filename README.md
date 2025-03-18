@@ -21,8 +21,8 @@ such as **conference, title, abstract**，which can be written in the form of [m
 |7|2025.02.14||||
 |8|2025.02.21|冯周|Towards Backdoor Stealthiness in Model Parameter Space|Preprint 2025|
 |9|2025.02.28|甘雨由|Systematic review of the development of open-source multimodal large language models|-|
-|10|2025.03.07|王异鸣|||
-|11|2025.03.14|李欣迪|||
+|10|2025.03.07|王异鸣|Rethinking the Invisible Protection against Unauthorized Image Usage in Stable Diffusion|Usenix Security 2024|
+|11|2025.03.14|李欣迪|Stealthy Backdoor Attack in Self-Supervised Learning Vision Encoders for Large Vision Language Models|CVPR 2025|
 |12|2025.03.21|李俊豪|||
 |13|2025.03.28|贺兴|||
 |14|2024.04.04|陈曦|||
@@ -77,7 +77,7 @@ such as **conference, title, abstract**，which can be written in the form of [m
 |7|2025.02.16||||
 |8|2025.02.23|江世昊|GhostType: The Limits of Using Contactless Electromagnetic Interference to Inject Phantom Keys into Analog Circuits of Keyboards|NDSS 2024|
 |9|2025.03.02|张凌铭|CarpetFuzz: Automatic Program Option Constraint Extraction from Documentation for Fuzzing|Usenix Security 2023|
-|10|2025.03.09|祝遥|||
+|10|2025.03.09|祝遥|Incorporating Gradients to Rules: Towards Lightweight, Adaptive Provenance-based Intrusion Detection|NDSS 2025|
 |11|2025.03.16|常博宇|SpecRover: Code Intent Extraction via LLMs|ICSE 2025|
 |12|2025.03.23|杨禹|||
 |13|2025.03.30|林型双|||

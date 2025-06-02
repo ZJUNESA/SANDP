@@ -89,7 +89,7 @@ such as **conference, title, abstract**，which can be written in the form of [m
 |19|2025.05.11|张凌铭|||
 |20|2025.05.18|祝遥|||
 |21|2025.05.25|杨禹|||
-|22|2025.06.01|常博宇|||
+|22|2025.06.01|常博宇|Towards Patch Correctness Assessment|Personal Progress Report|
 |23|2025.06.08|林型双|||
 |24|2025.06.15|黄钢|||
 |25|2025.06.22|武旗龙|||

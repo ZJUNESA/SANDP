@@ -79,33 +79,33 @@ such as **conference, title, abstract**，which can be written in the form of [m
 |9|2025.03.02|张凌铭|CarpetFuzz: Automatic Program Option Constraint Extraction from Documentation for Fuzzing|Usenix Security 2023|
 |10|2025.03.09|祝遥|Incorporating Gradients to Rules: Towards Lightweight, Adaptive Provenance-based Intrusion Detection|NDSS 2025|
 |11|2025.03.16|常博宇|SpecRover: Code Intent Extraction via LLMs|ICSE 2025|
-|12|2025.03.23|杨禹|||
-|13|2025.03.30|林型双|||
-|14|2025.04.06|武旗龙|||
-|15|2025.04.13|李秉政|||
-|16|2025.04.20|黄钢|||
-|17|2025.04.27|刘昕鹏|||
-|18|2025.05.04|江世昊|||
-|19|2025.05.11|张凌铭|||
-|20|2025.05.18|祝遥|||
-|21|2025.05.25|杨禹|||
-|22|2025.06.01|常博宇|||
-|23|2025.06.08|林型双|||
-|24|2025.06.15|黄钢|||
-|25|2025.06.22|武旗龙|||
-|26|2025.06.29|祝遥|||
-|27|2025.07.06|张凌铭|||
-|28|2025.07.13|林型双|||
-|29|2025.07.20|江世昊|||
-|30|2025.07.27|刘昕鹏|||
-|31|2025.08.03|杨禹|||
-|32|2025.08.10|常博宇|||
-|33|2025.08.17|黄钢|||
-|34|2025.08.24|江世昊|||
-|35|2025.08.31|张凌铭|||
-|36|2025.09.07|刘昕鹏|||
-|37|2025.09.14|祝遥|||
-|38|2025.09.21|林型双|||
+|12|2025.03.23|杨禹|AdvSQLi: Generating Adversarial SQL Injections Against Real-World WAF-as-a-Service|TIFS 2024|
+|13|2025.03.30|林型双|PropertyGPT: LLM-driven Formal Verification of Smart Contracts through Retrieval-Augmented Property Generation|NDSS 2025|
+|14|2025.04.06|武旗龙|Large Language Models for Code Analysis : Do LLMs Really Do Their Job?|USENIX Security 2024|
+|15|2025.04.13|李秉政|ARTEMIS: Toward Accurate Detection of Server-Side Request Forgeries through LLM-Assisted Inter-procedural Path-Sensitive Taint Analysis|OOPSLA 2025|
+|16|2025.04.20|黄钢|kAPR: LLM-assisted Automated Program Repair on Linux Kernel|Personal Progress Report|
+|17|2025.04.27|刘昕鹏|Static Analysis for (RTOS-Based) Firmware|Personal Progress Report|
+|18|2025.05.04|江世昊|Inside Your Robot Dog Friend: Architecture and Security Challenges of Embodied AI Intelligent Unmanned Systems|Personal Progress Report|
+|19|2025.05.11|张凌铭|The Case for Learned Provenance-based System Behavior Baseline|ICML 2025|
+|20|2025.05.18|祝遥|Fuzzing across JavaScript and WebAssembly Language Boundary|Personal Progress Report|
+|21|2025.05.25|杨禹|An Empirical Study on EDR Systems’ Robustness against Attack Mutations by LLMs|Personal Progress Report|
+|22|2025.06.01|常博宇|Towards Patch Correctness Assessment|Personal Progress Report|
+|23|2025.06.08|林型双|CompliGuard: Detecting Reusable Components Usage Logical Noncompliance in Smart Contracts|Personal Progress Report|
+|24|2025.06.15|黄钢|HAFE: A Hybrid and Automated PHP WebShell Obfuscation Technique with Branch-Oriented Control and Variable Functions for Detection Evasion|Personal Progress Report|
+|25|2025.06.22|武旗龙|FLLMBackdoor : Stealthy Injection and Triggering in Malicious LLM Deployment Frameworks|Personal Progress Report|
+|26|2025.06.29|祝遥|What We Talk About When We Talk About Logs: Understanding the Effects of Dataset Quality on Endpoint Threat Detection Research|IEEE S&P 2025|
+|27|2025.07.06|张凌铭|RepairAgent: An Autonomous, LLM-Based Agent for Program Repair|ICSE 2025|
+|28|2025.07.13|林型双|Copy-and-Paste? Identifying EVM-Inequivalent Code Smells in Multi-chain Reuse Contracts|ISSTA 2025|
+|29|2025.07.20|江世昊|Demystifying RCE Vulnerabilities in LLM-Integrated Apps|CCS 2024|
+|30|2025.07.27|刘昕鹏|Stealthy and Persistent Attacks Leveraging AI-IDE|Personal Progress Report|
+|31|2025.08.03|杨禹|Generating API Parameter Security Rules with LLM for API Misuse Detection|NDSS 2025|
+|32|2025.08.10|常博宇|COMMITSHIELD: Tracking Vulnerability Introduction and Fix in Version Control Systems|ICSE 2025|
+|33|2025.08.17|黄钢|An LLM-Assisted Easy-to-Trigger Backdoor Attack on Code Completion Models: Injecting Disguised Vulnerabilities against Strong Detection|USENIX Security 2024|
+|34|2025.08.24|江世昊|BadRobot: Manipulating Embodied LLMs in the Physical World|ICLR 2025|
+|35|2025.08.31|张凌铭|Top Score on the Wrong Exam: On Benchmarking in Machine Learning for Vulnerability Detection|ISSTA 2025|
+|36|2025.09.07|刘昕鹏|UntrustIDE: Exploiting Weaknesses in VS Code Extensions|NDSS 2024|
+|37|2025.09.14|祝遥|AutoLabel: Automated Fine-Grained Log Labeling for Cyber Attack Dataset Generation|USENIX Security 2025|
+|38|2025.09.21|林型双|Forge: An LLM-driven Framework for Large-Scale Smart Contract Vulnerability Dataset Construction|ICSE 2026|
 |39|2025.09.28|武旗龙|||
 |40|2025.10.05|常博宇|||
 |41|2025.10.12|杨禹|||

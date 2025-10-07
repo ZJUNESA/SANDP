@@ -106,7 +106,7 @@ such as **conference, title, abstract**，which can be written in the form of [m
 |36|2025.09.07|刘昕鹏|UntrustIDE: Exploiting Weaknesses in VS Code Extensions|NDSS 2024|
 |37|2025.09.14|祝遥|AutoLabel: Automated Fine-Grained Log Labeling for Cyber Attack Dataset Generation|USENIX Security 2025|
 |38|2025.09.21|林型双|Forge: An LLM-driven Framework for Large-Scale Smart Contract Vulnerability Dataset Construction|ICSE 2026|
-|39|2025.09.28|武旗龙|||
-|40|2025.10.05|常博宇|||
+|39|2025.09.28|武旗龙|The philosopher's stone: Trojaning plugins of large language models|NDSS 2025|
+|40|2025.10.05|常博宇|PATCHAGENT: A Practical Program Repair Agent Mimicking Human Expertise|USENIX Security 2025|
 |41|2025.10.12|杨禹|||
 

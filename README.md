@@ -58,6 +58,12 @@ such as **conference, title, abstract**，which can be written in the form of [m
 |44|2025.10.31|陈曦|||
 |45|2025.11.07|李俊豪|||
 |46|2025.11.14|贺兴|||
+|47|2025.11.21|陈佳豪||||
+|48|2025.11.28|吴柏祺||||
+|49|2025.12.05|朱富康||||
+|50|2025.12.12|周豪杰||||
+|51|2025.12.19|王露怡||||
+|52|2025.12.26|张童||||
 
 ## System Security Group Meeting
 **Location**：Cao Guangbiao High-tech Building 201
@@ -109,4 +115,15 @@ such as **conference, title, abstract**，which can be written in the form of [m
 |39|2025.09.28|武旗龙|The philosopher's stone: Trojaning plugins of large language models|NDSS 2025|
 |40|2025.10.05|常博宇|PATCHAGENT: A Practical Program Repair Agent Mimicking Human Expertise|USENIX Security 2025|
 |41|2025.10.12|杨禹|||
+|42|2025.10.19|徐博||||
+|43|2025.10.26|江世昊||||
+|44|2025.11.02|王晋文||||
+|45|2025.11.09|张宁瑞||||
+|46|2025.11.16|林型双||||
+|47|2025.11.23|祝遥||||
+|48|2025.11.30|武旗龙||||
+|49|2025.12.07|黄钢||||
+|50|2025.12.14|张凌铭||||
+|51|2025.12.21|刘昕鹏||||
+|52|2025.12.28|常博宇||||
 

@@ -23,35 +23,35 @@ such as **conference, title, abstract**，which can be written in the form of [m
 |9|2025.02.28|甘雨由|Systematic review of the development of open-source multimodal large language models|-|
 |10|2025.03.07|王异鸣|Rethinking the Invisible Protection against Unauthorized Image Usage in Stable Diffusion|Usenix Security 2024|
 |11|2025.03.14|李欣迪|Stealthy Backdoor Attack in Self-Supervised Learning Vision Encoders for Large Vision Language Models|CVPR 2025|
-|12|2025.03.21|李俊豪|||
-|13|2025.03.28|贺兴|||
-|14|2024.04.04|陈曦|||
-|15|2025.04.11|陈佳豪|||
-|16|2025.04.18|刘家宁|||
-|17|2025.04.25|张童|||
-|18|2025.05.02|张铃沛|||
-|19|2025.05.09|曾睿|||
-|20|2025.05.16|周豪杰|||
-|21|2025.05.23|冯周|||
-|22|2025.05.30|赵芷茗|||
-|23|2025.06.06|杨勇|||
-|24|2025.06.13|麻瓯勃|||
-|25|2025.06.20|王异鸣|||
-|26|2025.06.27|李俊豪|||
+|12|2025.03.21|陈曦|Deliberative Alignment Reasoning Enables Safer Language Models|OpenAI|
+|13|2025.03.28|贺兴|DIAGNOSIS: Detecting Unauthorized Data Usages in Text-to-Image Diffusion Models|ICLR 2024|
+|14|2024.04.04|李俊豪|Air Gap: Protecting Privacy-Conscious Conversational Agents|CCS 2024|
+|15|2025.04.11|陈佳豪|On the Security and Privacy Risks of Model Content Protocol||
+|16|2025.04.18|张铃沛|CS-LSTMs: Context and Seasonal LSTMs for Time Series Anomaly Detection||
+|17|2025.04.25|张童|Explanation as a Watermark: Towards Harmless and Multi-bit Model Ownership Verification via Watermarking Feature Attribution|NDSS 2024|
+|18|2025.05.02|刘家宁|AutoDAN-Turbo: A Lifelong Agent for Strategy Self-Exploration to Jailbreak LLMs|ICLR 2025|
+|19|2025.05.09|曾睿|DataSentinel: A Game-Theoretic Detection of Prompt Injection Attacks|SP 2025|
+|20|2025.05.16|周豪杰|SELFDEFEND: LLMs Can Defend Themselves against Jailbreaking in a Pratical Manner|USENIX Security 2025|
+|21|2025.05.23|冯周|Whispering Under the Eaves: Protecting User Privacy Against Commercial and LLM-powered Automatic Speech Recognition Systems|USENIX Security 2025|
+|22|2025.05.30|赵芷茗|Safety Alignment Should Be Made More Than Just A Few Tokens Deep|ICLR 2025|
+|23|2025.06.06|杨勇|Alleviating the Fear of Losing Alignment in LLM Fine-Tuning|SP 2025|
+|24|2025.06.13|王异鸣|DORMANT: Defending against Pose-driven Human Image Animation|USENIX Security 2025|
+|25|2025.06.20|麻瓯勃|Loss of Plasticity in Deep Reinforcement Learning||
+|26|2025.06.27|李俊豪|Doxing via the Lens: Revealing Location-related Privacy Leakage on Multi-modal Large Reasoning Models|arXiv|
 |27|2025.07.04|李欣迪|||
-|28|2025.07.11|贺兴|||
-|29|2025.07.18|陈佳豪|||
+|28|2025.07.11|贺兴|Fuzz-Testing Meets LLM-Based Agents: An Automated and Efficient Framework for Jailbreaking Text-To-Image Generation Models|SP 2025|
+|29|2025.07.18|陈佳豪|Delving into the Privacy Risks of Generative Models||
 |30|2025.07.25|陈曦|||
-|31|2025.08.01|林瑞潇|||
-|32|2025.08.08|姜毅|||
-|33|2025.08.15|甘雨由|||
-|34|2025.08.22|周豪杰|||
-|35|2025.08.29|张童|||
-|36|2025.09.05|曾睿|||
-|37|2025.09.12|冯周|||
-|38|2025.09.19|赵芷茗|||
-|39|2025.09.26|刘家宁|||
-|40|2025.10.03|王异鸣|||
+|31|2025.08.01|林瑞潇|Industrial Frameworks of LLM-based Multi-Agent Systems||
+|32|2025.08.08|张童|Towards Label-Only Membership Inference Attack against Pre-trained Large Language Models|USENIX Security 2025|
+|33|2025.08.15|周豪杰|Safety Layers in Aligned Large Language Models: The Key to LLM Security|ICLR 2025|
+|34|2025.08.22|甘雨由|SafeNeuron: Detecting Jailbreaking in Large Vision Language Model via Locating Critical Neurons|AAAI 2025|
+|35|2025.08.29|冯周|SafeSpeech: Robust and Universal Voice Protection Against Malicious Speech Synthesis|USENIX Security 2025|
+|36|2025.09.05|曾睿|Cloak, Honey, Trap: Proactive Defenses Against LLM Agents|USENIX Security 2025|
+|37|2025.09.12|王异鸣|||
+|38|2025.09.19|姜毅|Cascading Adversarial Bias from Injection to Distillation in Language Models|CCS 2025|
+|39|2025.09.26|刘家宁|We Have a Package for You! A Comprehensive Analysis of Package Hallucinations by Code Generating LLMs|USENIX Security 2025|
+|40|2025.10.03|赵芷茗|Test-Time Poisoning Attacks Against Test-Time Adaptation Models|SP 2024|
 |41|2025.10.10|李欣迪|||
 |42|2025.10.17|陈佳豪|||
 |43|2025.10.24|张铃沛|||

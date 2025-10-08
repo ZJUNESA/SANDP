@@ -15,7 +15,7 @@ such as **conference, title, abstract**，which can be written in the form of [m
 ||Date|Speaker|Title|Sharer|
 |---|:---:|:---:|:---:|:---:| 
 |1|2026.01.02|章琦||||
-|2|2026.01.09|职巳杰||||
+|2|2026.01.09|陈佳豪||||
 |3|2026.01.16|刘家宁||||
 |4|2026.01.23|赵芷茗||||
 |5|2026.01.30|曾睿||||

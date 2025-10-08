@@ -38,17 +38,17 @@ such as **conference, title, abstract**，which can be written in the form of [m
 |24|2025.06.13|王异鸣|DORMANT: Defending against Pose-driven Human Image Animation|USENIX Security 2025|
 |25|2025.06.20|麻瓯勃|Loss of Plasticity in Deep Reinforcement Learning||
 |26|2025.06.27|李俊豪|Doxing via the Lens: Revealing Location-related Privacy Leakage on Multi-modal Large Reasoning Models|arXiv|
-|27|2025.07.04|李欣迪|||
+|27|2025.07.04|李欣迪|Mirage in the Eyes: Hallucination Attack on Multi-modal Large Language Models with Only Attention Sink|USENIX Security 2025|
 |28|2025.07.11|贺兴|Fuzz-Testing Meets LLM-Based Agents: An Automated and Efficient Framework for Jailbreaking Text-To-Image Generation Models|SP 2025|
 |29|2025.07.18|陈佳豪|Delving into the Privacy Risks of Generative Models||
-|30|2025.07.25|陈曦|||
+|30|2025.07.25|陈曦|BadRobot: Jailbreaking Embodied LLMs in the Physical World|ICLR 2025|
 |31|2025.08.01|林瑞潇|Industrial Frameworks of LLM-based Multi-Agent Systems||
 |32|2025.08.08|张童|Towards Label-Only Membership Inference Attack against Pre-trained Large Language Models|USENIX Security 2025|
 |33|2025.08.15|周豪杰|Safety Layers in Aligned Large Language Models: The Key to LLM Security|ICLR 2025|
 |34|2025.08.22|甘雨由|SafeNeuron: Detecting Jailbreaking in Large Vision Language Model via Locating Critical Neurons|AAAI 2025|
 |35|2025.08.29|冯周|SafeSpeech: Robust and Universal Voice Protection Against Malicious Speech Synthesis|USENIX Security 2025|
 |36|2025.09.05|曾睿|Cloak, Honey, Trap: Proactive Defenses Against LLM Agents|USENIX Security 2025|
-|37|2025.09.12|王异鸣|||
+|37|2025.09.12|王异鸣|Exposing the Guardrails: Reverse-Engineering and Jailbreaking Safety Filters in DALL·E Text-to-Image Pipelines|USENIX Security 2025|
 |38|2025.09.19|姜毅|Cascading Adversarial Bias from Injection to Distillation in Language Models|CCS 2025|
 |39|2025.09.26|刘家宁|We Have a Package for You! A Comprehensive Analysis of Package Hallucinations by Code Generating LLMs|USENIX Security 2025|
 |40|2025.10.03|赵芷茗|Test-Time Poisoning Attacks Against Test-Time Adaptation Models|SP 2024|

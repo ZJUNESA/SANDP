@@ -5,56 +5,57 @@ Please upload your **slides** or a **introduction (Chinese or English)** of your
 such as **conference, title, abstract**，which can be written in the form of [markdown](http://sspai.com/25137). Please add your title in the agenda.
 
 
-## AI Security Group Meeting
-**Location**：Cao Guangbiao High-tech Building 201
+## NESA Group Meeting
+**Location**：Cao Guangbiao High-tech Building 142
 
 **Time**: Friday 18:00
-
-<div id="ai-sec">
-
-||Date|Speaker|Title|Sharer|
-|---|:---:|:---:|:---:|:---:| 
-|1|2026.01.02|章琦||||
-|2|2026.01.09|陈佳豪||||
-|3|2026.01.16|刘家宁||||
-|4|2026.01.23|赵芷茗||||
-|5|2026.01.30|曾睿||||
-|6|2026.02.06|王异鸣||||
-|7|2026.02.13|||||
-|8|2026.02.20|||||
-|9|2026.02.27|张铃沛||||
-|10|2026.03.06|陈曦||||
-|11|2026.03.13|冯周||||
-|12|2026.03.20|丁婉蒙||||
-|13|2026.03.27|贺兴||||
-|14|2026.04.03|李欣迪||||
-|15|2026.04.10|李俊豪||||
-
-## System Security Group Meeting
-**Location**：Cao Guangbiao High-tech Building 201
-
-**Time**: Sunday 18:00
-
-<div id="system-sec">
-
-||Date|Speaker|Title|Sharer|
-|---|:---:|:---:|:---:|:---:|
-|1|2026.01.04|徐博||||
-|2|2026.01.11|江世昊||||
-|3|2026.01.18|王晋文||||
-|4|2026.01.25|张宁瑞||||
-|5|2026.02.01|武旗龙||||
-|6|2026.02.08|黄钢||||
-|7|2026.02.15|||||
-|8|2026.02.22|||||
-|9|2026.03.01|张凌铭||||
-|10|2026.03.08|常博宇||||
-|11|2026.03.15|徐博||||
-|12|2026.03.22|江世昊||||
-|13|2026.03.29|王晋文||||
-|14|2026.04.05|张宁瑞||||
-|15|2026.04.12|武旗龙||||
-|16|2026.04.19|黄钢||||
-|17|2026.04.26|张凌铭||||
-|18|2026.05.03|常博宇||||
-|19|2026.05.10|夏亦凡||||
+ 
+<table>
+  <thead>
+    <tr><th></th><th>Date</th><th>Speaker</th><th>Title</th><th>Publication</th></tr>
+  </thead>
+  <tbody>
+    <tr><td rowspan="2">1</td><td rowspan="2">2026-03-20</td><td>李俊豪</td><td></td><td></td></tr>
+    <tr><td>贺兴</td><td></td><td></td></tr>
+    <tr><td rowspan="2">2</td><td rowspan="2">2026-03-27</td><td>黄钢</td><td></td><td></td></tr>
+    <tr><td>江世昊</td><td></td><td></td></tr>
+    <tr><td rowspan="2">3</td><td rowspan="2">2026-04-03</td><td>丁婉蒙</td><td></td><td></td></tr>
+    <tr><td>武旗龙</td><td></td><td></td></tr>
+    <tr><td rowspan="2">4</td><td rowspan="2">2026-04-10</td><td>张宁瑞</td><td></td><td></td></tr>
+    <tr><td>夏亦凡</td><td></td><td></td></tr>
+    <tr><td rowspan="2">5</td><td rowspan="2">2026-04-17</td><td>常博宇</td><td></td><td></td></tr>
+    <tr><td>王晋文</td><td></td><td></td></tr>
+    <tr><td rowspan="2">6</td><td rowspan="2">2026-04-24</td><td>李欣迪</td><td></td><td></td></tr>
+    <tr><td>冯周</td><td></td><td></td></tr>
+    <tr><td rowspan="2">7</td><td rowspan="2">2026-05-01</td><td>张凌铭</td><td></td><td></td></tr>
+    <tr><td>周豪杰</td><td></td><td></td></tr>
+    <tr><td rowspan="2">8</td><td rowspan="2">2026-05-08</td><td>王露怡</td><td></td><td></td></tr>
+    <tr><td>吴柏祺</td><td></td><td></td></tr>
+    <tr><td rowspan="2">9</td><td rowspan="2">2026-05-15</td><td>黄钢</td><td></td><td></td></tr>
+    <tr><td>贺兴</td><td></td><td></td></tr>
+    <tr><td rowspan="2">10</td><td rowspan="2">2026-05-22</td><td>王异鸣</td><td></td><td></td></tr>
+    <tr><td>职巳杰</td><td></td><td></td></tr>
+    <tr><td rowspan="2">11</td><td rowspan="2">2026-05-29</td><td>章琦</td><td></td><td></td></tr>
+    <tr><td>徐博</td><td></td><td></td></tr>
+    <tr><td rowspan="2">12</td><td rowspan="2">2026-06-05</td><td>陈佳豪</td><td></td><td></td></tr>
+    <tr><td>刘家宁</td><td></td><td></td></tr>
+    <tr><td rowspan="2">13</td><td rowspan="2">2026-06-12</td><td>陈曦</td><td></td><td></td></tr>
+    <tr><td>常博宇</td><td></td><td></td></tr>
+    <tr><td rowspan="2">14</td><td rowspan="2">2026-06-19</td><td>李俊豪</td><td></td><td></td></tr>
+    <tr><td>丁婉蒙</td><td></td><td></td></tr>
+    <tr><td rowspan="2">15</td><td rowspan="2">2026-06-26</td><td>江世昊</td><td></td><td></td></tr>
+    <tr><td>冯周</td><td></td><td></td></tr>
+    <tr><td rowspan="2">16</td><td rowspan="2">2026-07-03</td><td>赵芷茗</td><td></td><td></td></tr>
+    <tr><td>夏亦凡</td><td></td><td></td></tr>
+    <tr><td rowspan="2">17</td><td rowspan="2">2026-07-10</td><td>王晋文</td><td></td><td></td></tr>
+    <tr><td>张宁瑞</td><td></td><td></td></tr>
+    <tr><td rowspan="2">18</td><td rowspan="2">2026-07-17</td><td>张童</td><td></td><td></td></tr>
+    <tr><td>武旗龙</td><td></td><td></td></tr>
+    <tr><td rowspan="2">19</td><td rowspan="2">2026-07-24</td><td>朱富康</td><td></td><td></td></tr>
+    <tr><td>曾睿</td><td></td><td></td></tr>
+    <tr><td rowspan="2">20</td><td rowspan="2">2026-07-31</td><td>胡闻洛</td><td></td><td></td></tr>
+    <tr><td>张铃沛</td><td></td><td></td></tr>
+    <tr><td rowspan="2">21</td><td rowspan="2">2026-08-07</td><td>李欣迪</td><td></td><td></td></tr>
+    <tr><td>张凌铭</td><td></td><td></td></tr>
+  </tbody>
+</table>

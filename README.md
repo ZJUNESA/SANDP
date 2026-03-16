@@ -29,7 +29,7 @@ such as **conference, title, abstract**，which can be written in the form of [m
     <tr><td>张宁瑞</td><td></td><td></td></tr>
     <tr><td rowspan="2">7</td><td rowspan="2">2026-05-01</td><td>胡闻洛</td><td></td><td></td></tr>
     <tr><td>王露怡</td><td></td><td></td></tr>
-    <tr><td rowspan="2">8</td><td rowspan="2">2026-05-08</td><td>张童</td><td></td><td></td></tr>
+    <tr><td rowspan="2">8</td><td rowspan="2">2026-05-08</td><td>曾睿</td><td></td><td></td></tr>
     <tr><td>黄钢</td><td></td><td></td></tr>
     <tr><td rowspan="2">9</td><td rowspan="2">2026-05-15</td><td>陈佳豪</td><td></td><td></td></tr>
     <tr><td>陈曦</td><td></td><td></td></tr>
@@ -39,7 +39,7 @@ such as **conference, title, abstract**，which can be written in the form of [m
     <tr><td>王晋文</td><td></td><td></td></tr>
     <tr><td rowspan="2">12</td><td rowspan="2">2026-06-05</td><td>张凌铭</td><td></td><td></td></tr>
     <tr><td>常博宇</td><td></td><td></td></tr>
-    <tr><td rowspan="2">13</td><td rowspan="2">2026-06-12</td><td>曾睿</td><td></td><td></td></tr>
+    <tr><td rowspan="2">13</td><td rowspan="2">2026-06-12</td><td>张童</td><td></td><td></td></tr>
     <tr><td>夏亦凡</td><td></td><td></td></tr>
     <tr><td rowspan="2">14</td><td rowspan="2">2026-06-19</td><td>李欣迪</td><td></td><td></td></tr>
     <tr><td>刘家宁</td><td></td><td></td></tr>

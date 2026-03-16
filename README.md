@@ -36,7 +36,7 @@ such as **conference, title, abstract**，which can be written in the form of [m
     <tr><td rowspan="2">10</td><td rowspan="2">2026-05-22</td><td>冯周</td><td></td><td></td></tr>
     <tr><td>王晋文</td><td></td><td></td></tr>
     <tr><td rowspan="2">11</td><td rowspan="2">2026-05-29</td><td>张凌铭</td><td></td><td></td></tr>
-    <tr><td>常博宇</td><td></td><td></td></tr>
+    <tr><td>王异鸣</td><td></td><td></td></tr>
     <tr><td rowspan="2">12</td><td rowspan="2">2026-06-05</td><td>张童</td><td></td><td></td></tr>
     <tr><td>夏亦凡</td><td></td><td></td></tr>
     <tr><td rowspan="2">13</td><td rowspan="2">2026-06-12</td><td>李欣迪</td><td></td><td></td></tr>
@@ -48,7 +48,7 @@ such as **conference, title, abstract**，which can be written in the form of [m
     <tr><td rowspan="2">16</td><td rowspan="2">2026-07-03</td><td>武旗龙</td><td></td><td></td></tr>
     <tr><td>吴柏祺</td><td></td><td></td></tr>
     <tr><td rowspan="2">17</td><td rowspan="2">2026-07-10</td><td>徐博</td><td></td><td></td></tr>
-    <tr><td>王异鸣</td><td></td><td></td></tr>
+    <tr><td>常博宇</td><td></td><td></td></tr>
     <tr><td rowspan="2">18</td><td rowspan="2">2026-07-17</td><td>李俊豪</td><td></td><td></td></tr>
     <tr><td>章琦</td><td></td><td></td></tr>
     <tr><td rowspan="2">19</td><td rowspan="2">2026-07-24</td><td>江世昊</td><td></td><td></td></tr>

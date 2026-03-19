@@ -16,13 +16,13 @@ such as **conference, title, abstract**，which can be written in the form of [m
   </thead>
   <tbody>
     <tr><td rowspan="2">1</td><td rowspan="2">2026-03-20</td><td>王晋文</td><td></td><td></td></tr>
-    <tr><td>冯周</td><td></td><td></td></tr>
+    <tr><td>李俊豪</td><td></td><td></td></tr>
     <tr><td rowspan="2">2</td><td rowspan="2">2026-03-27</td><td>黄钢</td><td></td><td></td></tr>
     <tr><td>江世昊</td><td></td><td></td></tr>
     <tr><td rowspan="2">3</td><td rowspan="2">2026-04-03</td><td>夏亦凡</td><td></td><td></td></tr>
     <tr><td>丁婉蒙</td><td></td><td></td></tr>
     <tr><td rowspan="2">4</td><td rowspan="2">2026-04-10</td><td>武旗龙</td><td></td><td></td></tr>
-    <tr><td>李俊豪</td><td></td><td></td></tr>
+    <tr><td>冯周</td><td></td><td></td></tr>
     <tr><td rowspan="2">5</td><td rowspan="2">2026-04-17</td><td>李欣迪</td><td></td><td></td></tr>
     <tr><td>张凌铭</td><td></td><td></td></tr>
     <tr><td rowspan="2">6</td><td rowspan="2">2026-04-24</td><td>常博宇</td><td></td><td></td></tr>

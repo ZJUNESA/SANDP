@@ -71,7 +71,7 @@ such as **conference, title, abstract**，which can be written in the form of [m
     <tr><td>章琦</td><td></td><td></td></tr>
     <tr><td rowspan="2">28</td><td rowspan="2">2026-09-25</td><td>王露怡</td><td></td><td></td></tr>
     <tr><td>曾睿</td><td></td><td></td></tr>
-    <tr><td rowspan="2">29</td><td rowspan="2">2026-10-02</td><td>李欣迪</td><td></td><td></td></tr>
+    <tr><td rowspan="2">29</td><td rowspan="2">2026-10-02</td><td>曹云龙</td><td></td><td></td></tr>
     <tr><td>胡闻洛</td><td></td><td></td></tr>
     <tr><td rowspan="2">30</td><td rowspan="2">2026-10-09</td><td>张铃沛</td><td></td><td></td></tr>
     <tr><td>武旗龙</td><td></td><td></td></tr>

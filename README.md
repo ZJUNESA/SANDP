@@ -83,10 +83,10 @@ such as **conference, title, abstract**，which can be written in the form of [m
     <tr><td>周豪杰</td><td></td><td></td></tr>
     <tr><td rowspan="2">34</td><td rowspan="2">2026-11-06</td><td>喻新尧</td><td></td><td></td></tr>
     <tr><td>叶维乙</td><td></td><td></td></tr>
-    <tr><td rowspan="2">35</td><td rowspan="2">2026-11-13</td><td>赵柏丞</td><td></td><td></td></tr>
+    <tr><td rowspan="2">35</td><td rowspan="2">2026-11-13</td><td>冯周</td><td></td><td></td></tr>
     <tr><td>丁婉蒙</td><td></td><td></td></tr>
     <tr><td rowspan="2">36</td><td rowspan="2">2026-11-20</td><td>李想</td><td></td><td></td></tr>
-    <tr><td>冯周</td><td></td><td></td></tr>
+    <tr><td>赵柏丞</td><td></td><td></td></tr>
     <tr><td rowspan="2">37</td><td rowspan="2">2026-11-27</td><td>张宁瑞</td><td></td><td></td></tr>
     <tr><td>王晋文</td><td></td><td></td></tr>
     <tr><td rowspan="2">38</td><td rowspan="2">2026-12-04</td><td>王异鸣</td><td></td><td></td></tr>
